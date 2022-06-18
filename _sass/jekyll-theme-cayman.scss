@@ -35,11 +35,11 @@ body {
 }
 
 #skip-to-content {
-  height: 1px;
-  width: 1px;
+  height: 0px;
+  width: 0px;
   position: absolute;
   overflow: hidden;
-  top: -10px;
+  top: 0px;
 
   &:focus {
     position: fixed;
@@ -84,7 +84,7 @@ a {
   }
 
   @include large {
-    padding: 0.75rem 1rem;
+    padding: 5rem 5rem;
     font-size: 1.5rem;
   }
 
@@ -113,15 +113,15 @@ a {
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 0rem 0rem;
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 0rem 0rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 0rem 0rem;
   }
 }
 
