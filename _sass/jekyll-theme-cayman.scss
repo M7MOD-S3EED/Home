@@ -86,15 +86,27 @@ a {
 
   @include large {
     padding: 0.4rem 3rem;
+    + .btn {
+    margin-left: 1rem;
+    font-size: 1.5rem;
+  }
   }
 
   @include medium {
     padding: 0.4rem 2.5rem;
+    + .btn {
+    margin-left: 1rem;
+    font-size: 1.5rem;
+  }
   }
   
   
   @include small {
     padding: 0.4rem 1rem;
+    + .btn {
+    margin-left: 1rem;
+    font-size: 1.5rem;
+  }
   }
 }
 
