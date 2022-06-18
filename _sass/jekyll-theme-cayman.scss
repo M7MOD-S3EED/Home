@@ -15,7 +15,7 @@
   }
 }
 @mixin so {
-  @media screen and (max-width: #{$medium-breakpoint}) {
+  @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
     @content;
   }
 }
