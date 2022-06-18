@@ -18,6 +18,7 @@
   @media screen and (max-width: #{$medium-breakpoint}) {
     @content;
   }
+}
 
 @mixin small {
   @media screen and (max-width: #{$medium-breakpoint}) {
