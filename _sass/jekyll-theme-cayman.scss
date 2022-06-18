@@ -98,7 +98,7 @@ a {
   }
   
   @include so {
-    padding: 0.4rem 1rem;
+    padding: 0.4rem 0rem;
   }
 
   @include small {
