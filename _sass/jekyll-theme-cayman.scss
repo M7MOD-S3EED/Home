@@ -80,21 +80,21 @@ a {
   }
 
   + .btn {
-    margin-left: 1rem;
+    margin-left: 3rem;
     font-size: 1.5rem;
     padding: 0.2rem 1rem;
   }
 
   @include large {
-    margin-left: 1rem;
+    margin-left: 3rem;
     font-size: 1.5rem;
     padding: 0.2rem 2.5rem;
   }
 
   @include medium {
-    margin-left: 1rem;
+    margin-left: 3rem;
     font-size: 1.5rem;
-    padding: 0.2rem 1.6rem;
+    padding: 0.2rem 1.5rem;
   }
   
   @include small {
