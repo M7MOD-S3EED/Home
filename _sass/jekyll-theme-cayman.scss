@@ -133,11 +133,11 @@ a {
   }
 
   @include medium {
-    font-size: 5rem;
+    font-size: 4rem;
   }
 
   @include small {
-    font-size: 5rem;
+    font-size: 3rem;
   }
 }
 
@@ -147,11 +147,11 @@ a {
   opacity: 0.7;
 
   @include large {
-    font-size: 1.25rem;
+    font-size: 3rem;
   }
 
   @include medium {
-    font-size: 1.15rem;
+    font-size: 2rem;
   }
 
   @include small {
