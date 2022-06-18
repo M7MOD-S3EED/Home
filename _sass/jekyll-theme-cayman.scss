@@ -14,11 +14,6 @@
     @content;
   }
 }
-@mixin so {
-  @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
-    @content;
-  }
-}
 
 @mixin small {
   @media screen and (max-width: #{$medium-breakpoint}) {
@@ -97,13 +92,9 @@ a {
     padding: 0.4rem 2.5rem;
   }
   
-  @include so {
-    padding: 0.4rem 0rem;
-  }
-
+  
   @include small {
     padding: 0.4rem 1rem;
-    font-size:1.5rem;
   }
 }
 
