@@ -91,6 +91,10 @@ a {
   @include medium {
     padding: 0.4rem 2.5rem;
   }
+  
+  @include so {
+    padding: 0.4rem 1rem;
+  }
 
   @include small {
     padding: 0.4rem 1rem;
