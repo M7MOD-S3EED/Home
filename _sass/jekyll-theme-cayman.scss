@@ -92,12 +92,6 @@ a {
   @include medium {
     padding: 0.4rem 2.5rem;
   }
-  
-  
-  @include small {
-    font-size: 3rem;
-    padding: 0.4rem 0.5rem;
-  }
 }
 
 .page-header {
