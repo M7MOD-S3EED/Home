@@ -6,7 +6,7 @@ layout: default
   <img width="270" height="270" src="TEXTURES/WEB_ICON_AE.png">
 </p>
 
-## ** About Alien Eye: ** 
+### ** About Alien Eye:
 ## Alien Eye is an indie game development studio based in Egypt. Founded in 2022.
 
 
