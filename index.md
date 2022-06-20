@@ -32,12 +32,12 @@ Balance Ball is a classic adventure game where you play as a ball trying to reac
 </p>
 
 
-### Download:
+### Download: /##  [Privacy Policy](https://m7mods3eed.github.io/Balance-Ball.....Privacy-Policy)
 
 <a href="https://www.google.com"><img width="256" height="100" href="https://www.googl.com" src="TEXTURES/PLAY_BADGE.png"></a>
 
 
-[Privacy Policy] (https://m7mods3eed.github.io/Balance-Ball.....Privacy-Policy)
+
 
 
 # Contact us:
