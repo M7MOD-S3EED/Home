@@ -3,17 +3,22 @@ layout: default
 ---
 
 <p align="center">
-  <img width="480" height="270" src="TEXTURES/BB_SHOT.PNG">
+  <img width="480" height="270" src="TEXTURES/WEB_ICON_AE.png">
 </p>
 
-## About Alien Eye:
+** ####### About Alien Eye: **
 
-Alien Eye is an indie game development studio based in Egypt. Founded in 2022.
+###Alien Eye is an indie game development studio based in Egypt. Founded in 2022.
+
 
 
 ## Games:
 
+<p align="center">
+  <img width="480" height="270" src="TEXTURES/WEB_ICON_BB.png">
+</p>
 
+1.Balance Ball
 
 ## Welcome to GitHub Pages
 
