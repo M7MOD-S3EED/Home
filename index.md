@@ -25,7 +25,7 @@ Founded in 2022.
 
 Balance Ball is a classic adventure game where you play as a ball trying to reach the end of the level by avoiding obstacles.
 
-[Privacy Policy](https://m7mods3eed.github.io/Balance-Ball.....Privacy-Policy)
+[Privacy Policy](https://m7mods3eed.github.io/Balance-Ball-Privacy-Policy/)
 
 
 ### Screenshots:
