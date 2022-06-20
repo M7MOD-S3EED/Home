@@ -3,21 +3,39 @@ layout: default
 ---
 
 <p align="center">
-  <img width="270" height="270" src="TEXTURES/WEB_ICON_AE.png">
+  <img width="256" height="256" src="TEXTURES/WEB_ICON_AE.png">
 </p>
 
-### ** About Alien Eye:
-## Alien Eye is an indie game development studio based in Egypt. Founded in 2022.
+
+## About Alien Eye:
+
+Alien Eye is an indie game development studio based in Egypt. Founded in 2022.
+
 
 
 
 ## Games:
 
 <p align="center">
-  <img width="270" height="270" src="TEXTURES/WEB_ICON_BB.png">
+  <img width="256" height="256" src="TEXTURES/WEB_ICON_BB.png">
 </p>
 
-1.Balance Ball
+# 1.Balance Ball
+
+Balance Ball is a classic adventure game where you play as a ball trying to reach the end of the level by avoiding obstacles.
+
+### Screenshots:
+
+<p align="center">
+  <img width="480" height="270" src="TEXTURES/BB_SHOT.PNG">
+</p>
+
+
+### Download:
+
+<p align="left">
+  <img width="256" height="100" src="TEXTURES/PLAY_BADGE.png">
+</p>
 
 ## Welcome to GitHub Pages
 
