@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p align="center">
-  <img width="1920" height="1080" src="TEXTURES/BB_SHOT.PNG">
+  <img width="460" height="300" src="TEXTURES/BB_SHOT.PNG">
 </p>
 
 ## About Alien Eye:
