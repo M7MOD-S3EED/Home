@@ -2,6 +2,17 @@
 layout: default
 ---
 
+![image] ("TEXTURES/BB_SHOT.PNG")
+
+## About Alien Eye:
+
+Alien Eye is an indie game development studio based in Egypt. Founded in 2022.
+
+
+## Games:
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/M7MODS3EED/AlienEye.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
