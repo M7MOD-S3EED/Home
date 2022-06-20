@@ -37,7 +37,7 @@ Balance Ball is a classic adventure game where you play as a ball trying to reac
 
 ### Download: 
 
-<a href=""><###img width="256" height="100" src="TEXTURES/PLAY_BADGE.png"></a>
+<a href=""><######img width="256" height="100" src="TEXTURES/PLAY_BADGE.png"></a>
 
 
 
