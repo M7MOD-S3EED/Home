@@ -7,7 +7,7 @@ layout: default
 </p>
 
 
-# About Alien Eye:
+# **About Alien Eye:
 
 Alien Eye is an indie game development studio based in Egypt.
 Founded in 2022.
@@ -34,43 +34,12 @@ Balance Ball is a classic adventure game where you play as a ball trying to reac
 
 ### Download:
 
-<a href='https://play.google.com/store/search?q=balance+ball&c=apps&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="256" height="256" href="https://www.googl.com" src="TEXTURES/WEB_ICON_AE.png"></a>
+<a href="https://www.google.com"><img width="662" height="256" href="https://www.googl.com" src="TEXTURES/PLAY_BADGE.png"></a>
 
 
-## Welcome to GitHub Pages
+**[Privacy Policy] (https://m7mods3eed.github.io/Balance-Ball.....Privacy-Policy)
 
-You can use the [editor on GitHub](https://github.com/M7MODS3EED/AlienEye.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Contact us:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/M7MODS3EED/AlienEye.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contact Email: Contact.AlienEye@Gmail.com
