@@ -34,9 +34,7 @@ Balance Ball is a classic adventure game where you play as a ball trying to reac
 
 ### Download:
 
-[<p align="left">
-  <img width="256" height="100" src="TEXTURES/PLAY_BADGE.png">
-</p>] ("https://www.google.com")
+<a align ="left" href='https://play.google.com/store/search?q=balance+ball&c=apps&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
 ## Welcome to GitHub Pages
 
