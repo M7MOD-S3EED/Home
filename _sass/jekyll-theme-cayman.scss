@@ -154,6 +154,8 @@ a {
   opacity: 0.7;
 
   @include large {
+    margin-top: -1rem;
+    margin-bottom: 2rem;
     font-size: 2rem;
   }
 
