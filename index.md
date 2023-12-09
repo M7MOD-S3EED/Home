@@ -1,24 +1,16 @@
 ---
 layout: default
 ---
-
-<p align="center">
-  <img width="256" height="256" src="TEXTURES/WEB_ICON_AE.png">
-</p>
-
-
-# About Alien Eye:
-
-Alien Eye is an indie game development studio based in Egypt.
-Founded in 2022.
-
-
-
-
 # Games:
 
 <p align="center">
-  <img width="256" height="256" src="TEXTURES/WEB_ICON_BB.png">
+  <img class="gameIcon" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Game%20Icon-Circle-512.png?raw=true" alt="Logo">
+</p>
+## 1.RunDroid
+
+<p align="center">
+        <img style="margin-top: 40px; margins-down: -20px;" width=256 height=256 src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Alien%20Eye/Logo-Icon-Transparent-White-512.png?raw=true" alt="Logo">
+
 </p>
 
 ## 1.Balance Ball
