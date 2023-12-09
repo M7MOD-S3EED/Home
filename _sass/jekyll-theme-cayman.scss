@@ -137,7 +137,7 @@ a {
   @include large {
     margin-top: 1rem;
     margin-bottom: 0rem;
-    font-size: 5rem;
+    font-size: 6rem;
   }
 
   @include medium {
@@ -152,7 +152,7 @@ a {
 .project-tagline {
   margin-bottom: 1rem;
   font-weight: normal;
-  opacity: 0.7;
+  opacity: 0.75;
 
   @include large {
     margin-top: -0.7rem;
