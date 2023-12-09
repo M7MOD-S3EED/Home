@@ -9,7 +9,7 @@ layout: default
 ## 1.RunDroid
 
 <p align="center">
-        <img style="margin-top: 40px; margins-down: -20px;" width=256 height=256 src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Alien%20Eye/Logo-Icon-Transparent-White-512.png?raw=true" alt="Logo">
+        <img style="margin-top: 40px; margins-down: -30px;" width=256 height=256 src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Alien%20Eye/Logo-Icon-Transparent-White-512.png?raw=true" alt="Logo">
 
 </p>
 
