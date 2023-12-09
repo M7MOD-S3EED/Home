@@ -4,7 +4,7 @@ layout: default
 # Games:
 
 <p align="center">
-  <img class="gameIcon" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Game%20Icon-Circle-512.png?raw=true" alt="Logo">
+  <img class="gameicon" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Game%20Icon-Circle-512.png?raw=true" alt="Logo">
 </p>
 ## 1.RunDroid
 
