@@ -25,6 +25,19 @@
   box-sizing: border-box;
 }
 
+.gameicon{
+     width: 256px;
+     height: 256px;
+     border: 12px solid #bccfdc;
+     border-radius: 50%;
+     outline: 5px solid #6993b0;
+    }
+
+.screenshot{
+  margin-down: 20px;
+}
+
+
 body {
   padding: 0;
   margin: 0;
@@ -207,13 +220,7 @@ a {
     vertical-align: middle;
   }
 
-   .gameicon{
-     width: 256px;
-     height: 256px;
-     border: 12px solid #bccfdc;
-     border-radius: 50%;
-     outline: 5px solid #6993b0;
-    }
+   
   
   img {
     max-width: 100%;
