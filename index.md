@@ -5,7 +5,7 @@ layout: default
 
 
 <p align="center">
-  <img class="gameicon" style= "margin-top: 40px; margin-down: -30px;" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Game%20Icon-Circle-512.png?raw=true" alt="Icon">
+  <img class="gameicon" style= "margin-top: 100px; margin-down: -40px;" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Game%20Icon-Circle-512.png?raw=true" alt="Icon">
 </p>
 
 
@@ -15,10 +15,10 @@ RunDroid is a 2D fast-paced action platformer where you are trying to help a rec
 
 ### Screenshots:
 <p align="center">
-  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%200.jpg?raw=true" alt="Screenshot">
-  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%201.jpg?raw=true" alt="Screenshot">
-  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%202.jpg?raw=true" alt="Screenshot">
-  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%203.jpg?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%200.jpg?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%201.jpg?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%202.jpg?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%203.jpg?raw=true" alt="Screenshot">
 </p>
 
 
@@ -26,7 +26,7 @@ RunDroid is a 2D fast-paced action platformer where you are trying to help a rec
 Coming soon.
 
 
-<p align="center">
+<p align="center" style="margin-top: 50px;">
   _______________________________________________________________________
 </p>
 
@@ -42,15 +42,15 @@ Balance Ball is a classic adventure game where you play as a ball trying to reac
 
 ### Screenshots:
 <p align="center">
-  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-0.PNG?raw=true" alt="Screenshot">
-  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-1.PNG?raw=true" alt="Screenshot">
-  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-2.PNG?raw=true" alt="Screenshot">
-  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-3.PNG?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-0.PNG?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-1.PNG?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-2.PNG?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-3.PNG?raw=true" alt="Screenshot">
 </p>
 
 
 ### Download: 
-<a style="margin-top: 10px;" href='https://play.google.com/store/apps/details?id=com.AlienEye.BalanceBall&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.eps'/></a>
+<a style="margin-top: 10px; margin-down: 50px;" href='https://play.google.com/store/apps/details?id=com.AlienEye.BalanceBall&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.eps'/></a>
 
 
 
