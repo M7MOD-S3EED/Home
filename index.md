@@ -36,7 +36,7 @@ Coming soon.
 </p>
 
 
-## 1.Balance Ball
+## 2.Balance Ball
 Balance Ball is a classic adventure game where you play as a ball trying to reach the end of the level by avoiding obstacles.
 
 
@@ -50,7 +50,7 @@ Balance Ball is a classic adventure game where you play as a ball trying to reac
 
 
 ### Download: 
-<a href='https://play.google.com/store/apps/details?id=com.AlienEye.BalanceBall&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.eps'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.AlienEye.BalanceBall&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.eps?raw=true'/></a>
 
 
 # Contact us:
