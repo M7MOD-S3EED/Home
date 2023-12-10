@@ -3,33 +3,54 @@ layout: default
 ---
 # Games:
 
+
 <p align="center">
-  <img class="gameicon" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Game%20Icon-Circle-512.png?raw=true" alt="Logo">
+  <img class="gameicon" style= "margin-top: 40px; margin-down: -30px;" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Game%20Icon-Circle-512.png?raw=true" alt="Icon">
 </p>
+
+
 ## 1.RunDroid
-
-<p align="center">
-        <img style="margin-top: 40px; margins-down: -30px;" width=256 height=256 src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Alien%20Eye/Logo-Icon-Transparent-White-512.png?raw=true" alt="Logo">
-
-</p>
-
-## 1.Balance Ball
-
-Balance Ball is a classic adventure game where you play as a ball trying to reach the end of the level by avoiding obstacles.
-
-[Privacy Policy](https://m7mods3eed.github.io/Balance-Ball-Privacy-Policy/)
+RunDroid is a 2D fast-paced action platformer where you are trying to help a recently manufactured Droid pass the quality control trials.
 
 
 ### Screenshots:
+<p align="center">
+  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%200.jpg?raw=true" alt="Screenshot">
+  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%201.jpg?raw=true" alt="Screenshot">
+  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%202.jpg?raw=true" alt="Screenshot">
+  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%203.jpg?raw=true" alt="Screenshot">
+</p>
+
+
+### Download:
+Coming soon.
+
 
 <p align="center">
-  <img width="480" height="270" src="TEXTURES/BB_SHOT.PNG">
+  _______________________________________________________________________
+</p>
+
+
+<p align="center">
+  <img class="gameicon" style= "margin-top: 60px; margin-down: -30px;" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Game%20Icon-Circle-512.png?raw=true" alt="Icon">
+</p>
+
+
+## 1.Balance Ball
+Balance Ball is a classic adventure game where you play as a ball trying to reach the end of the level by avoiding obstacles.
+
+
+### Screenshots:
+<p align="center">
+  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-0.PNG?raw=true" alt="Screenshot">
+  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-1.PNG?raw=true" alt="Screenshot">
+  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-2.PNG?raw=true" alt="Screenshot">
+  <img src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/Balance%20Ball/Screenshot-3.PNG?raw=true" alt="Screenshot">
 </p>
 
 
 ### Download: 
-
-Not available <ja href=""><imger width="256" height="100" src="TEXTURES/PLAY_BADGE.png"></a>
+<a style="margin-top: 10px;" href='https://play.google.com/store/apps/details?id=com.AlienEye.BalanceBall&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.eps'/></a>
 
 
 
