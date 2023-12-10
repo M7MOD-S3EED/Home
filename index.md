@@ -15,7 +15,10 @@ RunDroid is a 2D fast-paced action platformer where you are trying to help a rec
 
 ### Screenshots:
 <p align="center">
-  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%200.jpg?raw=true" alt="Screenshot"><img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%201.jpg?raw=true" alt="Screenshot"><img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%202.jpg?raw=true" alt="Screenshot"><img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%203.jpg?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%200.jpg?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%201.jpg?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%202.jpg?raw=true" alt="Screenshot">
+  <img class="screenshot" src="https://github.com/M7MOD-S3EED/Alien-Eye-Resources/blob/main/RunDroid/Gameplay%20Shot%203.jpg?raw=true" alt="Screenshot">
 </p>
 
 
